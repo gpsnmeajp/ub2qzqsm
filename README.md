@@ -1,5 +1,5 @@
 # ub2qzqsm
-シリアルポートに接続された、UBX-M8030-KT(u-blox) チップ搭載のGNSS受信機から  
+シリアルポートに接続された、UBX-M8030-KT(u-blox) チップ搭載のGNSS受信機で  
 QZSS(準天頂衛星: みちびき)から、災害・危機管理通報サービス「災危通報」(DC Report)を受信し  
 それを$QZQSM (NMEA format)で出力します。
 
